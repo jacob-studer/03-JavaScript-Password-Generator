@@ -46,9 +46,7 @@ THEN the password is either displayed in an alert or written to the page
 ```
 
 ## Screenshots
-![screenshot-1](https://raw.githubusercontent.com/jacob-studer/02-Advanced-CSS-Portfolio/main/assets/images/Screenshot-1.PNG)
-![screenshot-2](https://raw.githubusercontent.com/jacob-studer/02-Advanced-CSS-Portfolio/main/assets/images/Screenshot-2.PNG)
-![screenshot-3](https://raw.githubusercontent.com/jacob-studer/02-Advanced-CSS-Portfolio/main/assets/images/Screenshot-3.PNG)
+![screenshot-1](https://raw.githubusercontent.com/jacob-studer/03-JavaScript-Password-Generator/main/screenshot/Screenshot%201.PNG)
 
 ## Links
 https://github.com/jacob-studer/02-Advanced-CSS-Portfolio
